@@ -66,4 +66,4 @@ I have written blogs each week, documenting my journey through the entire GSOC p
 
 ## Thank You
 
-Time flew so fast and here I am approaching the end of GSoC. I am really glad that I got the opportunity to participate on GSoC 2022. I would like to heartily thank my mentors for guiding and helping me whenever I got stuck. Being a closed source project, It was hard to figure out the bugs and the issues coming but mentors helped me a lot during this. I would also like to thank EOS Design Systems and Python Software Foundation for giving me this opportunity. I will be con
+Time flew so fast and here I am approaching the end of GSoC. I am really glad that I got the opportunity to participate on GSoC 2022. I would like to heartily thank my mentors for guiding and helping me whenever I got stuck. Being a closed source project, It was hard to figure out the bugs and the issues coming but mentors helped me a lot during this. I would also like to thank EOS Design Systems and Python Software Foundation for giving me this opportunity. I will keep contributing to EOS in the future. 
