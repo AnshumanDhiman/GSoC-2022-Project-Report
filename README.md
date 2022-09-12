@@ -2,7 +2,7 @@
 
 Final report for Google Summer of Code - 2022 at Python Software Foundation (EOS)
 
-## EOS icons - Figma and Adobe XD plugins and website
+## EOS icons - Figma and Adobe Xd plugins and website
 
 <img src="./assets/eos.jpg" alt="EOS Icon">
 
@@ -18,31 +18,39 @@ Currently, the eos-icons have developed plugins for Figma and Adobe Xd. Both the
 
 ### Figma Plugin
 
-- Added documentation for the plugin providing relevant test commands and how to run the plugin.
-- Configured semantic release for the figma repo based on eslint conventions.
-- Generated new manifest Id for the plugin.
-- Designed cover arts for the Plugin.
-- Published EOS Icons Figma Plugin on Figma Community. (Visit the plugin [here](https://www.figma.com/community/plugin/1131638845835688020))
-- Added modal to the plugin to provide information about the eos-icons.
-- Designed & Updated the current UI for the Figma Plugin giving a new look.
+| S No. |   Contribution     |
+|  ---  |       ---          |
+| 1 |[Added documentation for the plugin providing relevant test commands and how to run the plugin.](https://github.com/EOS-uiux-Solutions/eos-icons-figma/pull/38)|
+| 2 |[Configured semantic release for the figma repo based on eslint conventions](https://github.com/EOS-uiux-Solutions/eos-icons-figma/pull/41)|
+| 3 |[Generated new manifest Id for the plugin](https://github.com/EOS-uiux-Solutions/eos-icons-figma/pull/48)|
+| 4 |Designed cover arts for the Plugin|
+| 5 |[Published EOS Icons Figma Plugin on Figma Community](https://www.figma.com/community/plugin/1131638845835688020)|
+| 6 |[Added modal to the plugin to provide information about the eos-icons](https://github.com/EOS-uiux-Solutions/eos-icons-figma/commit/7339263fd3bd3d98e7f910b4d7fad30f87a2ab2c)|
+| 7 |[Designed & Updated the current UI for the Figma Plugin giving a new look](https://github.com/EOS-uiux-Solutions/eos-icons-figma/commit/7339263fd3bd3d98e7f910b4d7fad30f87a2ab2c)|
 
 ### Adobe XD Plugin
 
-- Added documentation for the plugin providing relevant test commands and how to run the plugin.
-- Configured semantic release for the adobe repo based on eslint conventions.
-- Generated new manifest Id for the plugin.
-- Changed state from HandleOnClick to HandleOnChange and debugged the Debounce Hook.
-- Modified the API to fetch the icons properly and reduce the loading time.
-- Designed cover arts for the Plugin.
-- Published EOS Icons Adobe Xd Plugin on Adobe Creative Cloud. (Visit the plugin [here](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/f7ecf6b5?pluginId=f7ecf6b5))
-- Added a section to the plugin providing information about the eos-icons.
+| S No. |   Contribution     |
+|  ---  |       ---          |
+| 1 |[Added documentation for the plugin providing relevant test commands and how to run the plugin](https://github.com/EOS-uiux-Solutions/eos-icons-adobe-xd/pull/30)|
+| 2 |[Configured semantic release for the adobe repo based on eslint conventions](https://github.com/EOS-uiux-Solutions/eos-icons-adobe-xd/pull/35)|
+| 3 |[Generated new manifest Id for the plugin](https://github.com/EOS-uiux-Solutions/eos-icons-adobe-xd/pull/40)|
+| 4 |[Changed state from HandleOnClick to HandleOnChange and debugged the Debounce Hook](https://github.com/EOS-uiux-Solutions/eos-icons-adobe-xd/pull/40)|
+| 5 |[Modified the API to fetch the icons properly and reduce the loading time](https://github.com/EOS-uiux-Solutions/eos-icons-adobe-xd/pull/41)|
+| 6 |Designed cover arts for the Plugin|
+| 7 |[Published EOS Icons Adobe Xd Plugin on Adobe Creative Cloud](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/f7ecf6b5?pluginId=f7ecf6b5)|
+| 8 |[Added a section to the plugin providing information about the eos-icons](https://github.com/EOS-uiux-Solutions/eos-icons-adobe-xd/pull/42)|
+
 
 ### EOS Icons Website
 
-- Added a section to the website providing information about the Figma Plugin.
-- Added a section to the website providing information about the Adobe Xd Plugin.
-- Fixed indexing issues with gifs in the website.
-- Started to develop a section to the website providing information about the user-story.
+| S No. |   Contribution     |
+|  ---  |       ---          |
+| 1 |[Added a section to the website providing information about the Figma Plugin](https://github.com/EOS-uiux-Solutions/eos-icons-frontend/pull/11)|
+| 2 |[Added a section to the website providing information about the Adobe Xd Plugin](https://github.com/EOS-uiux-Solutions/eos-icons-frontend/pull/11)|
+| 3 |[Fixed indexing issues with gifs in the website](https://github.com/EOS-uiux-Solutions/eos-icons-frontend/pull/12)|
+| 4 |Started to develop a section to the website providing information about the user-story|
+
 
 
 ## More info about the project:
@@ -56,7 +64,7 @@ Eos Icons Website <a href="https://github.com/EOS-uiux-Solutions/eos-icons-front
 
 ## My Journey
 
-I have written blogs each week, documenting my journey through the entire GSOC period. You can find them <a href="https://blogs.python-gsoc.org/en/anshumandhimans-blog/">GSoC 2022 Anshuman Dhiman Blogs</a>
+I have written blogs each week, documenting my journey through the entire GSOC period. You can find them here <a href="https://blogs.python-gsoc.org/en/anshumandhimans-blog/">GSoC 2022 Anshuman Dhiman Blogs</a>
 
 ## Future Work
 
