@@ -16,7 +16,7 @@ Currently, the eos-icons have developed plugins for Figma and Adobe Xd. Both the
 
 ## Contributions
 
-### Figma Plugin
+### EOS Icons Figma Plugin
 
 | S No. |   Contribution     |
 |  ---  |       ---          |
@@ -28,7 +28,7 @@ Currently, the eos-icons have developed plugins for Figma and Adobe Xd. Both the
 | 6 |[Added modal to the plugin to provide information about the eos-icons](https://github.com/EOS-uiux-Solutions/eos-icons-figma/commit/7339263fd3bd3d98e7f910b4d7fad30f87a2ab2c)|
 | 7 |[Designed & Updated the current UI for the Figma Plugin giving a new look](https://github.com/EOS-uiux-Solutions/eos-icons-figma/commit/7339263fd3bd3d98e7f910b4d7fad30f87a2ab2c)|
 
-### Adobe XD Plugin
+### EOS Icons Adobe Xd Plugin
 
 | S No. |   Contribution     |
 |  ---  |       ---          |
@@ -50,6 +50,13 @@ Currently, the eos-icons have developed plugins for Figma and Adobe Xd. Both the
 | 2 |[Added a section to the website providing information about the Adobe Xd Plugin](https://github.com/EOS-uiux-Solutions/eos-icons-frontend/pull/11)|
 | 3 |[Fixed indexing issues with gifs in the website](https://github.com/EOS-uiux-Solutions/eos-icons-frontend/pull/12)|
 | 4 |Started to develop a section to the website providing information about the user-story|
+
+### EOS Icons Wiki
+
+| S No. |   Contribution     |
+|  ---  |       ---          |
+| 1 |[Added documentation on how to update EOS Icons Figma Plugin](https://github.com/EOS-uiux-Solutions/wiki/pull/10)|
+| 2 |[Added documentation on how to update EOS Icons Figma Plugin](https://github.com/EOS-uiux-Solutions/wiki/pull/10)|
 
 
 
